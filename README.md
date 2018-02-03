@@ -1,7 +1,8 @@
 # Microblog1
+
 This is micro-blogging app, where users can post short updates to a private social
-media site. We won't worry about the user interface yet; first we are working on the data
-structure.
+media site. 
+
 A post will show the following information:
 1. The user who posted it
 2. An integer for the order in which it was posted
